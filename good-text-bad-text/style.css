@@ -1,0 +1,21 @@
+/* Add your styles here! */
+
+.bad {
+  
+}
+
+.good {
+  
+}
+
+
+/* leave these alone, these are styles for the rest of the page */
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2 {
+  margin: 16px;
+}
