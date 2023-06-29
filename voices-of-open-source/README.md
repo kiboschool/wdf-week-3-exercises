@@ -129,12 +129,10 @@ Finally, the social icons. They're hard to see at first, because the color is da
 
 ## You're finished!
 
-Once again, check that your site looks like the target images. Once your styling is complete, you are finished! 
+Once again, check that your site looks like the target images. Once your styling is complete, you are finished! You can test your work by running the tests with `pnpm run test`.
 
-Don't forget to click Submit.
+Don't forget to submit your work.
 
 ## Content Note
 
 This article is from the OpenSource.org blog. You can view the original here: [Helping open source projects thrive](https://blog.opensource.org/helping-open-source-projects-thrive-by-putting-essential-licensing-data-at-teams-fingertips/)
-
-
